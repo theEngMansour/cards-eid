@@ -8,7 +8,7 @@ export default function Card({ name }) {
             <card className="relative md:h-[30rem] w-[35rem] bg-white outline-[10px] outline-white outline shadow-lg">
                 {/* <!-- Background Image --> */}
                 <div className="object-cover w-full h-full p-2">
-                    <Image src={'/snd_01.jpg'} width={600} height={500}/>
+                    <Image src={'/snd_01.jpg'} width={600} height={500} alt="eid"/>
                 </div>
                 {/* <!-- Content --> */}
                 <div className="absolute w-full h-32 bottom-0 flex flex-col items-center justify-center text-center">
