@@ -5,7 +5,7 @@ import SixKIcon from '@mui/icons-material/SixK';
 import TipsAndUpdatesIcon from '@mui/icons-material/TipsAndUpdates';
 export default function Advantage() {
   return (
-    <div classNameName="bg-gray-100">
+    <div className="bg-gray-100">
         <section className="mx-auto max-w-7xl sm:px-6 lg:px-8 bg-white pt-16">
             <div role="contentinfo" className="flex items-center flex-col px-4">
                 <h1 tabindex="0" className="focus:outline-none text-4xl lg:text-4xl font-extrabold text-center leading-10 text-orange-800 lg:w-5/12 md:w-9/12 pt-4">مميزات الموقع</h1>
