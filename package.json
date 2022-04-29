@@ -1,16 +1,11 @@
 {
   "name": "my-app",
   "private": true,
-  "prisma": {
-    "seed": "node prisma/seed.js"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-build": "prisma generate && prisma migrate deploy && next build",
-    "prisma:generate": "prisma generate"
+    "lint": "next lint"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
