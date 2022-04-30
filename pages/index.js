@@ -19,9 +19,26 @@ export default function Index() {
                 <button style={{ backgroundColor: '#00c37d'}} className="px-12 text-white select-none rounded-xl mt-6 py-2 outline-none focus:outline-none hover:bg-green-400">إنشاء</button>
             </div>
         </div>
-        <Card name={name}/>
-        <Card name={name}/>
-        <Card name={name}/>
+        <Card name={name} image={'/file/1.jpg'} />
+        <Card name={name} image={'/file/2.jpg'} />
+        <Card name={name} image={'/file/3.jpg'} />
+        <Card name={name} image={'/file/4.jpg'} />
+        <Card name={name} image={'/file/5.jpg'} />
+        <Card name={name} image={'/file/6.jpg'} />
+        <Card name={name} image={'/file/7.jpg'} />
+        <Card name={name} image={'/file/8.jpg'} />
+        <Card name={name} image={'/file/9.jpg'} />
+        <Card name={name} image={'/file/10.jpg'} />
+        <Card name={name} image={'/file/11.jpg'} />
+        <Card name={name} image={'/file/12.jpg'} />
+        <Card name={name} image={'/file/13.jpg'} />
+        <Card name={name} image={'/file/14.jpg'} />
+        <Card name={name} image={'/file/15.jpg'} />
+        <Card name={name} image={'/file/16.jpg'} />
+        <Card name={name} image={'/file/17.jpg'} />
+        <Card name={name} image={'/file/18.jpg'} />
+        <Card name={name} image={'/file/19.jpg'} />
+
     </React.Fragment>
   );
 }
