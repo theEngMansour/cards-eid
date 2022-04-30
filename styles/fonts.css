@@ -11,6 +11,10 @@
     font-family: "NotoRegular"; 
     src: url(../public/fonts/NotoSansArabic-Regular.ttf); 
 }
+@font-face { 
+    font-family: "wqalam"; 
+    src: url(../public/fonts/w_qalam.ttf); 
+}
 
 .ck-editor__editable:not(.ck-editor__nested-editable) {
     min-height: 160px;
