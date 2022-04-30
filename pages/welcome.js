@@ -23,13 +23,12 @@ export default function Index() {
             </div>
         </div>
         <Advantage />
-        <footer class="p-4 bg-white sm:p-6 mt-6">
-            <div class="md:flex md:justify-between">
-                <div class="mb-6 md:mb-0">
-                    {/* <img src="https://flowbite.com/docs/images/logo.svg" class="mr-4 h-10" alt="FlowBite Logo"> */}
+        <footer className="p-4 bg-white sm:p-6 mt-6">
+            <div className="md:flex md:justify-between">
+                <div className="mb-6 md:mb-0">
                     <div><Image src="/logo-bemedia.svg" width={100} height={100} alt="bemedia"/></div>
-                    <span class="self-center text-xl font-semibold whitespace-nowrap font-mono text-[#00c37d]">BeeMedia</span>
-                    <p class="text-sm text-gray-500 sm:text-center font-mono">© 2022 BeeMedia All Rights Reserved</p>
+                    <span className="self-center text-xl font-semibold whitespace-nowrap font-mono text-[#00c37d]">BeeMedia</span>
+                    <p className="text-sm text-gray-500 sm:text-center font-mono">© 2022 BeeMedia All Rights Reserved</p>
                 </div>
             </div>
         </footer>
