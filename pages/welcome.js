@@ -16,7 +16,7 @@ export default function Index() {
                     </div>
                     <div className="mt-6 text-gray-500"> يهنئ المسلمون بعضهم البعض بعيد الفطر المبارك بإرسال الرسائل والتهنئة لبعضهم البعض ، لأن التحية وتلقي التهاني بقدوم عيد الفطر من الأمور التي تلهم الروح الشعور بالحب وقوة الروح. الترابط بين المسلمين وبعضهم البعض والشعور بالفرح المشترك لجميع المسلمين في مختلف أنحاء الأرض.
                     </div>
-                    <Link href={'/'}>
+                    <Link href={'/'} passHref>
                       <button style={{ backgroundColor: '#00c37d'}} className="px-12 text-white select-none rounded-xl mt-6 py-2 outline-none focus:outline-none hover:bg-green-400">إنشى بطاقتك الآن</button>
                     </Link>
                 </div>
