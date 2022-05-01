@@ -38,6 +38,28 @@ export default function Index() {
         <Card name={name} image={'/file/17.jpg'} />
         <Card name={name} image={'/file/18.jpg'} />
         <Card name={name} image={'/file/19.jpg'} />
+        <Card name={name} image={'/file/20.jpg'} />
+        <Card name={name} image={'/file/21.jpg'} />
+        <Card name={name} image={'/file/22.jpg'} />
+        <Card name={name} image={'/file/23.jpg'} />
+        <Card name={name} image={'/file/24.jpg'} />
+        <Card name={name} image={'/file/25.jpg'} />
+        <Card name={name} image={'/file/26.jpg'} />
+        <Card name={name} image={'/file/27.jpg'} />
+        <Card name={name} image={'/file/28.jpg'} />
+        <Card name={name} image={'/file/29.jpg'} />
+        <Card name={name} image={'/file/30.jpg'} />
+        <Card name={name} image={'/file/31.jpg'} />
+        <Card name={name} image={'/file/111.jpg'} />
+        <Card name={name} image={'/file/112.jpg'} />
+        <Card name={name} image={'/file/113.jpg'} />
+        <Card name={name} image={'/file/114.jpg'} />
+        <Card name={name} image={'/file/115.jpg'} />
+        <Card name={name} image={'/file/116.jpg'} />
+        <Card name={name} image={'/file/117.jpg'} />
+        <Card name={name} image={'/file/118.jpg'} />
+        <Card name={name} image={'/file/119.jpg'} />
+        <Card name={name} image={'/file/120.jpg'} />
 
     </React.Fragment>
   );
